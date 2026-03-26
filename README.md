@@ -33,3 +33,5 @@ chmod +x *
 # Run the setup script
 ./setup.sh
 
+# Usage
+./AP_Phisher.sh or bash AP_Phisher.sh
