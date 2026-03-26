@@ -11,7 +11,7 @@ Created by: **Ankon Polley**
 ## 🚀 Features
 * **Multiple Templates:** Includes various social media and login page templates.
 * **Docker Support:** Optimized for containerized environments.
-* **Termux/Kali Compatible:** Works seamlessly on mobile (Termux) and Linux (Kali/NetHunter).
+* **Termux/Kali Compatible:** Works seamlessly on mobile (Termux) and Linux (Kali/Arch/Parrot/Ubuntu etc.).
 * **Automated Setup:** Includes `setup.sh` to handle all dependencies.
 
 ## 🛠️ Installation & Usage
